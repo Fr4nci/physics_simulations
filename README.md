@@ -2,3 +2,4 @@
 
 * Laplace equation (using finite difference method)
 * Musical Wave Equation (using finite difference method)
+* Heat equation (using finite difference method)
